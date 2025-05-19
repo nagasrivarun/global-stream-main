@@ -1,0 +1,9 @@
+{
+  "projectId": "prj_UsphOnjDm5JlOAWSoohxNW5AGjPh",
+  "orgId": "team_qHpP2T3bUp6P4VILPo2uaglH",
+  "buildCommand": "npm run build",
+  "installCommand": "npm install",
+  "outputDirectory": ".next"
+}
+
+
